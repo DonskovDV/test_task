@@ -15,14 +15,16 @@
 
 #### Вставка компонента:
 
+```php
 $APPLICATION->IncludeComponent(
     "custom:user.groups",
     "",
     [
-        "CACHE_TIME" => 3600,
-        "PAGE_TITLE" => "Список групп",
+        "CACHE_TIME" => 3600,    // Время кеширования
+        "PAGE_TITLE" => "Список групп", // Заголовок страницы
     ]
 );
+```
 
 ## Модули
 

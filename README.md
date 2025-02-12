@@ -1,5 +1,5 @@
 # test_task
-Тестовое задание для PHP-программиста (Битрикс) https://docs.google.com/document/d/1mNw8GnqV9Q7dqukekhRJJj0GwPDwPRkMlBmkUNeuxcs/edit?tab=t.0
+Тестовое задание для PHP-программиста (Битрикс)
 
 ## Установка
 
